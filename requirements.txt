@@ -1,0 +1,19 @@
+# Machine Learning Specialization 2025 - Required Packages
+# Core ML libraries
+numpy>=2.3.0
+pandas>=2.3.0
+scikit-learn>=1.7.0
+matplotlib>=3.10.0
+
+# Jupyter environment
+jupyter>=1.1.0
+notebook>=7.4.0
+ipykernel>=6.30.0
+
+# Optional but recommended
+seaborn>=0.13.0
+plotly>=6.3.0
+
+# For advanced topics (optional)
+# tensorflow>=2.20.0
+# keras>=3.10.0
